@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
