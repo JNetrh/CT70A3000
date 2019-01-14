@@ -49,7 +49,7 @@ Basic features of fibonacci sequence are tested
 
 ## Authors
 
-- **Jakub Netrh** - _Initial work_ - [PurpleBooth](https://github.com/JNetrh)
+- **Jakub Netrh** - _Initial work_ - [JNetrh](https://github.com/JNetrh)
 
 ## License
 
