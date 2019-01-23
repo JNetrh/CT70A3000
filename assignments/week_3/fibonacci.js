@@ -23,7 +23,7 @@ const fib = object => {
   }
   let fib = fibonacci(start);
   let result = [];
-  result.push(fib[fib.length - 2]);
+  result.push(fib[fib.length - 1]);
   result.push(fib[fib.length - 1]);
   if (start == 0) {
     result = [0, 1];
