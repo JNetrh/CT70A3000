@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "buffered-reader": "^1.0.1",
+    "csv-stringify": "^5.3.0",
+    "difflib": "^0.2.4",
+    "fs": "^0.0.1-security",
+    "html2plaintext": "^2.1.2",
+    "request": "^2.88.0"
+  }
+}
